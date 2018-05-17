@@ -1,0 +1,19 @@
+.chart-box {
+    background: #fff;
+    padding: 10px;
+    border: solid 1px #e4e4e4;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.chart-align-left {
+    width: 49%;
+    float: left;
+    height: 320px;
+}
+
+.chart-align-right {
+    width: 49%;
+    float: right;
+    height: 320px;
+}
